@@ -12,5 +12,5 @@ const removeSmallest = (numbers) => {
     let minimumIndex = Math.min(...count)
   return  numbers.filter((el, index) => index !== minimumIndex)
 }
-
+v
 
