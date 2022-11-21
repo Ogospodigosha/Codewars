@@ -5,3 +5,4 @@ const between =(a, b) =>{
     }
     return rezult
 }
+console.log()
