@@ -14,6 +14,6 @@ const count =(string) =>{
     }
     return rezult
 }
-console.log(count('Gosahaa'))
+
 
 
